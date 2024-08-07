@@ -1,5 +1,12 @@
 # Toy_HF
 
-Are you confused about why there are some many graphic cards but most of them are in used? :joy:
+## Introduction
 
-Are you wanna use some card in a cluster or vm but there are no more card can be used? :blush:
+Are you puzzled by the fact that there are so many GPUs, yet most of them seem to be in use? :joy:
+
+Do you want to utilize a GPU in a cluster or VM but find that none are available? :blush:
+
+This repository can help you! :rocket:
+
+## How to use it
+
