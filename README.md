@@ -10,3 +10,12 @@ This repository can help you! :rocket:
 
 ## How to use it
 
+```bash
+conda create -n toyhf python=3.9
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+pip install -r requirments.txt
+git clone https://github.com/Zanghu-ze/Toy_HF
+cd Toy_HF
+python inference.py
+```
+
